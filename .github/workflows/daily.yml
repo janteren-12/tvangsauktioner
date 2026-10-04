@@ -1,0 +1,27 @@
+name: Daglig opdatering
+
+on:
+  schedule:
+    - cron: "30 5 * * *"   # hver dag ca. kl. 07:30 dansk tid
+  workflow_dispatch:        # gør det muligt at starte manuelt fra GitHub
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      - run: python scraper.py
+      - name: Gem ændringer
+        run: |
+          git config user.name "daglig-opdatering"
+          git config user.email "actions@users.noreply.github.com"
+          git add data
+          git diff --staged --quiet || git commit -m "Opdater auktionsdata $(date +%F)"
+          git push

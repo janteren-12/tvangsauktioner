@@ -1,0 +1,78 @@
+<!doctype html>
+<html lang="da">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Tvangsauktioner Overblik</title>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+  <h1>Tvangsauktioner i Danmark</h1>
+  <p class="sub">Overblik over aktuelle tvangsauktioner over fast ejendom. <span id="updated"></span>
+     Data stammer fra <a href="https://www.tvangsauktioner.dk" target="_blank" rel="noopener">tvangsauktioner.dk</a> – klik på en auktion for originalen.</p>
+</header>
+
+<section class="filters">
+  <label>Søg adresse/by <input id="f-q" type="search" placeholder="fx Helsingør"></label>
+  <label>Type
+    <select id="f-gruppe">
+      <option value="">Alle</option>
+      <option value="huse">Huse (villa, rækkehus, fritidshus …)</option>
+      <option value="lejligheder">Lejligheder</option>
+      <option value="ejendomme">Ejendomme (beboelse/udlejning)</option>
+      <option value="erhverv">Erhverv, landbrug og grunde</option>
+    </select></label>
+  <label>Landsdel <select id="f-landsdel"><option value="">Alle</option></select></label>
+  <label>Retskreds <select id="f-retskreds"><option value="">Alle</option></select></label>
+  <label>Kommune <select id="f-kommune"><option value="">Alle</option></select></label>
+  <label>Auktion fra <input id="f-fra" type="date"></label>
+  <label>Auktion til <input id="f-til" type="date"></label>
+  <label>Min. boligareal (m²) <input id="f-amin" type="number" min="0"></label>
+  <label>Maks. boligareal (m²) <input id="f-amax" type="number" min="0"></label>
+  <label class="chk"><input id="f-2" type="checkbox"> Kun 2. auktion</label>
+  <label class="chk"><input id="f-nye" type="checkbox"> Kun nye i dag</label>
+  <label class="chk"><input id="f-sidst" type="checkbox"> Kun nye siden mit sidste besøg</label>
+  <label class="chk"><input id="f-aflyst" type="checkbox"> Vis aflyste/flyttede</label>
+  <button id="reset" type="button">Nulstil filtre</button>
+</section>
+
+<section class="bar">
+  <strong id="count"></strong>
+  <label>Sortér
+    <select id="sort">
+      <option value="dato">Auktionsdato (nærmeste først)</option>
+      <option value="areal">Boligareal (størst først)</option>
+      <option value="beloeb">Størstebeløb (størst først)</option>
+      <option value="nyest">Senest fundet</option>
+    </select></label>
+  <span class="tabs">
+    <button id="tab-tabel" class="on" type="button">Tabel</button>
+    <button id="tab-kort" type="button">Kort</button>
+  </span>
+</section>
+
+<main>
+  <div id="view-tabel" class="scroll">
+    <table>
+      <thead><tr>
+        <th>Adresse</th><th>Type</th><th>Auktionsdato</th><th>Nr.</th>
+        <th class="r">Bolig m²</th><th class="r">Grund m²</th>
+        <th class="r">Størstebeløb</th><th>Retskreds</th><th>Landsdel</th><th></th>
+      </tr></thead>
+      <tbody id="rows"></tbody>
+    </table>
+  </div>
+  <div id="view-kort" hidden><div id="map"></div></div>
+</main>
+
+<footer>
+  Hjemmesiden er et uofficielt overblik. Tjek altid detaljer hos <a href="https://www.tvangsauktioner.dk" target="_blank" rel="noopener">originalkilden</a>.
+  Ingen rådgivning – tvangsauktioner indebærer risiko.
+</footer>
+
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
