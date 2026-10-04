@@ -20,7 +20,9 @@ button { cursor:pointer; }
 .tabs button.on { background:var(--accent); color:#fff; border-color:var(--accent); }
 .scroll { overflow-x:auto; background:var(--card); border:1px solid var(--line); border-radius:10px; }
 table { width:100%; border-collapse:collapse; }
-th, td { padding:8px 10px; text-align:left; border-bottom:1px solid var(--line); white-space:nowrap; }
+th, td { padding:8px 8px; text-align:left; border-bottom:1px solid var(--line); font-size:.9rem; }
+td:nth-child(n+3):nth-child(-n+7), td:nth-child(9), td:nth-child(10), th:nth-child(n+3):nth-child(-n+7) { white-space:nowrap; }
+td:first-child { min-width:220px; }
 th { font-size:.78rem; text-transform:uppercase; letter-spacing:.03em; color:var(--mute); background:#fafbfc; position:sticky; top:0; }
 .r { text-align:right; }
 tr.cancelled td { color:var(--mute); text-decoration:line-through; }
