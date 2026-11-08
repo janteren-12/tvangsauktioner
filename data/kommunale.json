@@ -1352,7 +1352,7 @@
   "hash": "108fef2906efb06c12825f7680873273d6b24599",
   "samlet_side": true,
   "foerst_set": "2026-11-08",
-  "paa_sitet": true,
+  "paa_sitet": false,
   "sidst_set": "2026-11-08"
  },
  {
@@ -1372,7 +1372,7 @@
   "hash": "f5a93b7def444c5fef6eceba9c71f61efd13b1c0",
   "samlet_side": true,
   "foerst_set": "2026-11-08",
-  "paa_sitet": true,
+  "paa_sitet": false,
   "sidst_set": "2026-11-08"
  },
  {
@@ -1482,7 +1482,7 @@
   "landsdel": "Sjælland",
   "tjekket": "2026-11-08",
   "foerst_set": "2026-11-08",
-  "paa_sitet": true,
+  "paa_sitet": false,
   "sidst_set": "2026-11-08"
  },
  {
@@ -1502,7 +1502,7 @@
   "hash": "968a3ccd05a23c8155151d2d41b1e59263b16c8e",
   "samlet_side": true,
   "foerst_set": "2026-11-08",
-  "paa_sitet": true,
+  "paa_sitet": false,
   "sidst_set": "2026-11-08"
  },
  {
@@ -1522,7 +1522,7 @@
   "hash": "a6a9b828d7809e5be776fa20f34df430edc7c2d1",
   "samlet_side": true,
   "foerst_set": "2026-11-08",
-  "paa_sitet": true,
+  "paa_sitet": false,
   "sidst_set": "2026-11-08"
  },
  {
@@ -1542,7 +1542,7 @@
   "hash": "56301667305ab19c23469f505125747abfb4b551",
   "samlet_side": true,
   "foerst_set": "2026-11-08",
-  "paa_sitet": true,
+  "paa_sitet": false,
   "sidst_set": "2026-11-08"
  },
  {
