@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="da">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Kommunale Salg</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+  <nav class="topnav"><a href="index.html">Tvangsauktioner</a><a href="kommunale.html" class="on">Kommunale salg</a></nav>
+  <h1>Kommunale ejendomme og grunde til salg</h1>
+  <p class="sub">Salg annonceret på kommunernes egne hjemmesider på Sjælland. <span id="updated"></span>
+     Oplysninger om pris, areal og frist er udtrukket automatisk – tjek altid kommunens side (klik på titlen).</p>
+</header>
+
+<section class="filters">
+  <label>Søg <input id="f-q" type="search" placeholder="fx Herfølge"></label>
+  <label>Kategori
+    <select id="f-kat"><option value="">Alle</option><option>Grund</option><option>Ejendom</option><option>Erhverv</option><option>Samlet oversigt</option></select></label>
+  <label>Landsdel <select id="f-landsdel"><option value="">Alle</option></select></label>
+  <label>Kommune <select id="f-kommune"><option value="">Alle</option></select></label>
+  <label class="chk"><input id="f-nye" type="checkbox"> Kun nye i dag</label>
+  <label class="chk"><input id="f-sidst" type="checkbox"> Kun nye siden mit sidste besøg</label>
+  <label class="chk"><input id="f-aktiv" type="checkbox" checked> Skjul solgte og udløbne frister</label>
+  <button id="reset" type="button">Nulstil filtre</button>
+</section>
+
+<section class="bar">
+  <strong id="count"></strong>
+  <label>Sortér
+    <select id="sort">
+      <option value="nyest">Senest fundet</option>
+      <option value="kommune">Kommune</option>
+      <option value="frist">Budfrist (nærmeste først)</option>
+      <option value="pris">Pris (lavest først)</option>
+    </select></label>
+</section>
+
+<main>
+  <div class="scroll">
+    <table>
+      <thead><tr>
+        <th>Titel</th><th>Kategori</th><th>Kommune</th><th class="r">Pris</th><th class="r">Areal m²</th><th>Budfrist</th><th>Fundet</th>
+      </tr></thead>
+      <tbody id="rows"></tbody>
+    </table>
+  </div>
+  <p class="muted" id="coverage"></p>
+</main>
+
+<footer>
+  Uofficielt overblik. Kommunerne annoncerer forskelligt, så listen kan være ufuldstændig, og en side kan stadig stå, efter ejendommen er solgt.
+  København, Frederiksberg og Herlev offentliggør ikke salg på deres hjemmesider.
+</footer>
+<script src="kommunale.js"></script>
+</body>
+</html>
