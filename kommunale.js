@@ -88,7 +88,8 @@ async function init() {
   all = data;
   if (meta) {
     $("updated").textContent = "Senest opdateret " + new Date(meta.opdateret).toLocaleString("da-DK", { dateStyle: "medium", timeStyle: "short" }) + ".";
-    $("coverage").textContent = `Dækker ${meta.kommuner.length} kommuner: ${meta.kommuner.join(", ")}.`;
+    $("coverage").textContent = `Dækker ${meta.kommuner.length} kommuner: ${meta.kommuner.join(", ")}.` +
+      (meta.fejlede && meta.fejlede.length ? ` Kunne ikke hentes ved seneste opdatering (viser tidligere data): ${meta.fejlede.join(", ")}.` : "");
   }
   const live = all.filter((a) => a.paa_sitet);
   fillSelect("f-landsdel", live.map((a) => a.landsdel));

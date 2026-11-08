@@ -219,7 +219,7 @@ def crawl(kommune, landsdel, hubs, known, cache, today):
             continue
         hub_n = norm(hub)
         try:
-            hub_html[hub] = fetch(hub)
+            hub_html[hub] = fetch(hub)  # noqa
             cands |= set(children(hub_html[hub], hub))
         except requests.RequestException as e:
             print(f"    fejl {hub}: {e}", file=sys.stderr)
@@ -270,7 +270,7 @@ def crawl(kommune, landsdel, hubs, known, cache, today):
                     "pris": None, "pris_m2": None, "areal": None, "frist": None})
         rec.setdefault("foerst_set", today)
         found[hub_n] = rec
-    return found
+    return found, bool(hub_html)
 
 
 def main():
@@ -284,12 +284,18 @@ def main():
     cache_f = DATA / "kommunale_cache.json"
     cache = json.loads(cache_f.read_text(encoding="utf-8")) if cache_f.exists() else {}
     current = set()
+    fejlede = []
     for kommune, (landsdel, hubs) in KOMMUNER.items():
         if args.only and kommune != args.only:
             continue
         print(f"{kommune} ...")
         known = {k: v for k, v in old.items() if v.get("kommune") == kommune}
-        found = crawl(kommune, landsdel, hubs, known, cache, today)
+        found, ok = crawl(kommune, landsdel, hubs, known, cache, today)
+        if not ok:
+            # kommunens side kunne ikke nås: behold det vi kendte, marker ikke som fjernet
+            print("  kunne ikke hentes - beholder tidligere data")
+            fejlede.append(kommune)
+            found = {k: v for k, v in known.items() if v.get("paa_sitet", True)}
         print(f"  {len(found)} salg")
         merged.update(found)
         current |= set(found)
@@ -304,7 +310,7 @@ def main():
     OUT.write_text(json.dumps(result, ensure_ascii=False, indent=1), encoding="utf-8")
     (DATA / "kommunale_meta.json").write_text(json.dumps(
         {"opdateret": datetime.now().isoformat(timespec="minutes"), "antal": sum(a.get("paa_sitet", False) for a in result),
-         "kommuner": sorted(KOMMUNER)}, ensure_ascii=False), encoding="utf-8")
+         "kommuner": sorted(KOMMUNER), "fejlede": fejlede}, ensure_ascii=False), encoding="utf-8")
     print(f"Færdig: {sum(a.get('paa_sitet', False) for a in result)} aktuelle salg gemt i {OUT}")
 
 
