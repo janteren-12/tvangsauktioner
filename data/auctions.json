@@ -4987,7 +4987,7 @@
   "rekvirent_tlf": "31642400",
   "fogedret_adresse": "Badehusvej 17, 9000, Aalborg",
   "landsdel": "Nordjylland",
-  "paa_sitet": true,
+  "paa_sitet": false,
   "sidst_set": "2026-11-08",
   "fogedret_navn": "Retten i Aalborg"
  },
