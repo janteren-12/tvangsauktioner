@@ -2738,43 +2738,6 @@
   "landsdel": "Syddanmark"
  },
  {
-  "id": 15322,
-  "url": "https://www.tvangsauktioner.dk/tvangsauktion/15322/",
-  "adresse": "Mølleparken 25",
-  "postnr": "7100",
-  "by": "Vejle",
-  "kategori": "Villa",
-  "status": "active",
-  "auktion_nr": 1,
-  "auktionsdato": "2026-10-30T10:00",
-  "ejendomsvaerdi": 1971000,
-  "areal_bolig": 175,
-  "areal_erhverv": 0,
-  "areal_grund": 841,
-  "lat": 55.65659062051,
-  "lng": 9.4982402923977,
-  "billede": "https://www.tvangsauktioner.dk/wp-content/uploads/2026/10/6aca06b03021c-768x1024.jpeg",
-  "foerst_set": "2026-10-10",
-  "kommune": "Vejle",
-  "matrikel": "8ad, Højen By, Højen",
-  "grundvaerdi": 585000,
-  "offentliggjort": "2026-10-10T11:37",
-  "as_nr": "AS 7-159/2026",
-  "retskreds": "Retten i Kolding",
-  "sagsnr": "20687B-2-MHJ",
-  "stoerstebeloeb": 74289,
-  "sikkerhedsstillelse": 567100,
-  "vejareal": 0,
-  "statstidende_dato": "2026-10-12T00:00",
-  "rekvirent_navn": "Andersen Partners",
-  "rekvirent_tlf": "+45 76 22 22 22",
-  "fogedret_adresse": "Kolding Åpark 11, 6000, Kolding",
-  "fogedret_navn": "Retten i Kolding",
-  "landsdel": "Syddanmark",
-  "paa_sitet": false,
-  "sidst_set": "2026-10-30"
- },
- {
   "id": 15199,
   "url": "https://www.tvangsauktioner.dk/tvangsauktion/15199/",
   "adresse": "Industri Vest 9",
@@ -3879,7 +3842,7 @@
   "fogedret_navn": "Københavns Byret, Tvangsauktioner",
   "landsdel": "Hovedstaden",
   "paa_sitet": true,
-  "sidst_set": "2026-11-08"
+  "sidst_set": "2026-11-09"
  },
  {
   "id": 15223,
@@ -3953,7 +3916,7 @@
   "fogedret_navn": "Retten i Hillerød",
   "landsdel": "Hovedstaden",
   "paa_sitet": true,
-  "sidst_set": "2026-11-08"
+  "sidst_set": "2026-11-09"
  },
  {
   "id": 15336,
@@ -3990,7 +3953,7 @@
   "fogedret_navn": "Retten i Hillerød",
   "landsdel": "Hovedstaden",
   "paa_sitet": true,
-  "sidst_set": "2026-11-08"
+  "sidst_set": "2026-11-09"
  },
  {
   "id": 15137,
@@ -4026,7 +3989,7 @@
   "fogedret_adresse": "Nørregade 1, 8900, Randers C",
   "landsdel": "Midtjylland",
   "paa_sitet": true,
-  "sidst_set": "2026-11-08",
+  "sidst_set": "2026-11-09",
   "fogedret_navn": "Retten i Randers"
  },
  {
@@ -4064,7 +4027,7 @@
   "fogedret_navn": "Retten i Hjørring",
   "landsdel": "Nordjylland",
   "paa_sitet": true,
-  "sidst_set": "2026-11-08"
+  "sidst_set": "2026-11-09"
  },
  {
   "id": 15354,
@@ -4101,7 +4064,7 @@
   "fogedret_navn": "Retten i Hjørring",
   "landsdel": "Nordjylland",
   "paa_sitet": true,
-  "sidst_set": "2026-11-08"
+  "sidst_set": "2026-11-09"
  },
  {
   "id": 15227,
@@ -4138,7 +4101,7 @@
   "fogedret_navn": "Retten i Svendborg",
   "landsdel": "Syddanmark",
   "paa_sitet": true,
-  "sidst_set": "2026-11-08"
+  "sidst_set": "2026-11-09"
  },
  {
   "id": 15342,
@@ -4212,7 +4175,7 @@
   "fogedret_navn": "Retten i Svendborg",
   "landsdel": "Syddanmark",
   "paa_sitet": true,
-  "sidst_set": "2026-11-08"
+  "sidst_set": "2026-11-09"
  },
  {
   "id": 15351,
@@ -4249,7 +4212,7 @@
   "fogedret_navn": "Retten i Lyngby",
   "landsdel": "Hovedstaden",
   "paa_sitet": true,
-  "sidst_set": "2026-11-08"
+  "sidst_set": "2026-11-09"
  },
  {
   "id": 15316,
@@ -4286,7 +4249,7 @@
   "fogedret_navn": "Retten i Sønderborg",
   "landsdel": "Syddanmark",
   "paa_sitet": true,
-  "sidst_set": "2026-11-08"
+  "sidst_set": "2026-11-09"
  },
  {
   "id": 15317,
@@ -4323,7 +4286,7 @@
   "fogedret_navn": "Retten i Sønderborg",
   "landsdel": "Syddanmark",
   "paa_sitet": true,
-  "sidst_set": "2026-11-08"
+  "sidst_set": "2026-11-09"
  },
  {
   "id": 15350,
@@ -4360,7 +4323,7 @@
   "fogedret_navn": "Retten i Glostrup",
   "landsdel": "Hovedstaden",
   "paa_sitet": true,
-  "sidst_set": "2026-11-08"
+  "sidst_set": "2026-11-09"
  },
  {
   "id": 15339,
@@ -4397,7 +4360,7 @@
   "fogedret_navn": "Retten i Viborg",
   "landsdel": "Midtjylland",
   "paa_sitet": true,
-  "sidst_set": "2026-11-08"
+  "sidst_set": "2026-11-09"
  },
  {
   "id": 15353,
@@ -4434,7 +4397,7 @@
   "fogedret_navn": "Retten i Horsens",
   "landsdel": "Midtjylland",
   "paa_sitet": true,
-  "sidst_set": "2026-11-08"
+  "sidst_set": "2026-11-09"
  },
  {
   "id": 15355,
@@ -4471,7 +4434,7 @@
   "fogedret_navn": "Retten i Viborg",
   "landsdel": "Midtjylland",
   "paa_sitet": true,
-  "sidst_set": "2026-11-08"
+  "sidst_set": "2026-11-09"
  },
  {
   "id": 15259,
@@ -4507,7 +4470,7 @@
   "fogedret_adresse": "Sct. Knuds Park 8, 9800, Hjørring",
   "landsdel": "Nordjylland",
   "paa_sitet": true,
-  "sidst_set": "2026-11-08",
+  "sidst_set": "2026-11-09",
   "fogedret_navn": "Retten i Hjørring"
  },
  {
@@ -4545,7 +4508,7 @@
   "fogedret_navn": "Retten i Holbæk",
   "landsdel": "Sjælland",
   "paa_sitet": true,
-  "sidst_set": "2026-11-08"
+  "sidst_set": "2026-11-09"
  },
  {
   "id": 15361,
@@ -4582,7 +4545,7 @@
   "fogedret_navn": "Retten i Hjørring",
   "landsdel": "Nordjylland",
   "paa_sitet": true,
-  "sidst_set": "2026-11-08"
+  "sidst_set": "2026-11-09"
  },
  {
   "id": 15150,
@@ -4618,7 +4581,7 @@
   "fogedret_adresse": "Sct. Knuds Park 8, 9800, Hjørring",
   "landsdel": "Nordjylland",
   "paa_sitet": true,
-  "sidst_set": "2026-11-08",
+  "sidst_set": "2026-11-09",
   "fogedret_navn": "Retten i Hjørring"
  },
  {
@@ -4655,7 +4618,7 @@
   "fogedret_adresse": "Sct. Knuds Park 8, 9800, Hjørring",
   "landsdel": "Nordjylland",
   "paa_sitet": true,
-  "sidst_set": "2026-11-08",
+  "sidst_set": "2026-11-09",
   "fogedret_navn": "Retten i Hjørring"
  },
  {
@@ -4692,7 +4655,7 @@
   "fogedret_adresse": "Domhusstræde 1, 4300, Holbæk",
   "landsdel": "Sjælland",
   "paa_sitet": true,
-  "sidst_set": "2026-11-08",
+  "sidst_set": "2026-11-09",
   "fogedret_navn": "Retten i Holbæk"
  },
  {
@@ -4730,7 +4693,7 @@
   "fogedret_navn": "Retten i Aalborg",
   "landsdel": "Nordjylland",
   "paa_sitet": true,
-  "sidst_set": "2026-11-08"
+  "sidst_set": "2026-11-09"
  },
  {
   "id": 15348,
@@ -4767,7 +4730,7 @@
   "fogedret_navn": "Retten i Aalborg",
   "landsdel": "Nordjylland",
   "paa_sitet": true,
-  "sidst_set": "2026-11-08"
+  "sidst_set": "2026-11-09"
  },
  {
   "id": 15297,
@@ -4804,7 +4767,7 @@
   "fogedret_navn": "Retten i Næstved",
   "landsdel": "Sjælland",
   "paa_sitet": true,
-  "sidst_set": "2026-11-08"
+  "sidst_set": "2026-11-09"
  },
  {
   "id": 15118,
@@ -4841,7 +4804,7 @@
   "fogedret_navn": "Retten i Roskilde",
   "landsdel": "Sjælland",
   "paa_sitet": true,
-  "sidst_set": "2026-11-08"
+  "sidst_set": "2026-11-09"
  },
  {
   "id": 15326,
@@ -4877,7 +4840,7 @@
   "fogedret_adresse": "Kasernevej 20, 1, 4700, Næstved",
   "fogedret_navn": "Retten i Næstved",
   "landsdel": "Sjælland",
-  "paa_sitet": true,
+  "paa_sitet": false,
   "sidst_set": "2026-11-08"
  },
  {
@@ -4915,7 +4878,7 @@
   "fogedret_navn": "Retten i Holstebro, Afdelingskontoret i Thisted",
   "landsdel": "Nordjylland",
   "paa_sitet": true,
-  "sidst_set": "2026-11-08"
+  "sidst_set": "2026-11-09"
  },
  {
   "id": 15371,
@@ -4952,7 +4915,7 @@
   "fogedret_navn": "Retten i Odense",
   "landsdel": "Syddanmark",
   "paa_sitet": true,
-  "sidst_set": "2026-11-08"
+  "sidst_set": "2026-11-09"
  },
  {
   "id": 15262,
@@ -5025,7 +4988,7 @@
   "fogedret_adresse": "Kasernevej 20, 1, 4700, Næstved",
   "landsdel": "Sjælland",
   "paa_sitet": true,
-  "sidst_set": "2026-11-08",
+  "sidst_set": "2026-11-09",
   "fogedret_navn": "Retten i Næstved"
  },
  {
@@ -5063,7 +5026,7 @@
   "fogedret_navn": "Retten i Odense",
   "landsdel": "Syddanmark",
   "paa_sitet": true,
-  "sidst_set": "2026-11-08"
+  "sidst_set": "2026-11-09"
  },
  {
   "id": 15295,
@@ -5136,7 +5099,7 @@
   "fogedret_adresse": "Stationsvej 58, 7500, Holstebro",
   "landsdel": "Midtjylland",
   "paa_sitet": true,
-  "sidst_set": "2026-11-08",
+  "sidst_set": "2026-11-09",
   "fogedret_navn": "Retten i Holstebro"
  },
  {
@@ -5174,7 +5137,7 @@
   "fogedret_navn": "Retten i Hjørring",
   "landsdel": "Nordjylland",
   "paa_sitet": true,
-  "sidst_set": "2026-11-08"
+  "sidst_set": "2026-11-09"
  },
  {
   "id": 15381,
@@ -5211,7 +5174,7 @@
   "fogedret_navn": "Retten i Nykøbing F.",
   "landsdel": "Sjælland",
   "paa_sitet": true,
-  "sidst_set": "2026-11-08"
+  "sidst_set": "2026-11-09"
  },
  {
   "id": 15273,
@@ -5247,7 +5210,7 @@
   "fogedret_adresse": "Stationsvej 58, 7500, Holstebro",
   "landsdel": "Midtjylland",
   "paa_sitet": true,
-  "sidst_set": "2026-11-08",
+  "sidst_set": "2026-11-09",
   "fogedret_navn": "Retten i Holstebro"
  },
  {
@@ -5285,7 +5248,7 @@
   "fogedret_navn": "Retten i Nykøbing F.",
   "landsdel": "Sjælland",
   "paa_sitet": true,
-  "sidst_set": "2026-11-08"
+  "sidst_set": "2026-11-09"
  },
  {
   "id": 15367,
@@ -5322,7 +5285,7 @@
   "fogedret_navn": "Retten i Lyngby",
   "landsdel": "Hovedstaden",
   "paa_sitet": true,
-  "sidst_set": "2026-11-08"
+  "sidst_set": "2026-11-09"
  },
  {
   "id": 15366,
@@ -5359,7 +5322,7 @@
   "fogedret_navn": "Retten i Sønderborg",
   "landsdel": "Syddanmark",
   "paa_sitet": true,
-  "sidst_set": "2026-11-08"
+  "sidst_set": "2026-11-09"
  },
  {
   "id": 15296,
@@ -5395,7 +5358,7 @@
   "fogedret_adresse": "Stationsvej 10, 6400, Sønderborg",
   "landsdel": "Syddanmark",
   "paa_sitet": true,
-  "sidst_set": "2026-11-08",
+  "sidst_set": "2026-11-09",
   "fogedret_navn": "Retten i Sønderborg"
  },
  {
@@ -5414,7 +5377,7 @@
   "areal_grund": 15199,
   "lat": 55.643973442913,
   "lng": 12.288182189346,
-  "billede": "https://www.tvangsauktioner.dk/wp-content/uploads/2026/11/satellite_image_24160.png",
+  "billede": "https://www.tvangsauktioner.dk/wp-content/uploads/2026/11/satellite_image_24160-1.png",
   "foerst_set": "2026-11-02",
   "kommune": "Høje-Taastrup",
   "matrikel": "7eø, Høje-Taastrup By, Rønnevang, Lejl. nr.42",
@@ -5433,7 +5396,7 @@
   "fogedret_navn": "Retten i Glostrup",
   "landsdel": "Hovedstaden",
   "paa_sitet": true,
-  "sidst_set": "2026-11-08"
+  "sidst_set": "2026-11-09"
  },
  {
   "id": 15256,
@@ -5469,7 +5432,7 @@
   "fogedret_adresse": "Prøvestensvej 50, 3000, Helsingør",
   "landsdel": "Hovedstaden",
   "paa_sitet": true,
-  "sidst_set": "2026-11-08",
+  "sidst_set": "2026-11-09",
   "fogedret_navn": "Retten i Helsingør"
  },
  {
@@ -5543,7 +5506,7 @@
   "fogedret_adresse": "Haraldsgade 28, 7400, Herning",
   "landsdel": "Midtjylland",
   "paa_sitet": true,
-  "sidst_set": "2026-11-08",
+  "sidst_set": "2026-11-09",
   "fogedret_navn": "Retten i Herning"
  },
  {
@@ -5580,7 +5543,7 @@
   "fogedret_adresse": "Klostermarken 10, 8800, Viborg",
   "landsdel": "Midtjylland",
   "paa_sitet": true,
-  "sidst_set": "2026-11-08",
+  "sidst_set": "2026-11-09",
   "fogedret_navn": "Retten i Viborg"
  },
  {
@@ -5617,7 +5580,7 @@
   "fogedret_adresse": "Haraldsgade 28, 7400, Herning",
   "landsdel": "Midtjylland",
   "paa_sitet": true,
-  "sidst_set": "2026-11-08",
+  "sidst_set": "2026-11-09",
   "fogedret_navn": "Retten i Herning"
  },
  {
@@ -5655,7 +5618,7 @@
   "fogedret_navn": "Retten i Herning",
   "landsdel": "Midtjylland",
   "paa_sitet": true,
-  "sidst_set": "2026-11-08"
+  "sidst_set": "2026-11-09"
  },
  {
   "id": 15242,
@@ -5691,7 +5654,7 @@
   "fogedret_adresse": "Klostermarken 10, 8800, Viborg",
   "landsdel": "Midtjylland",
   "paa_sitet": true,
-  "sidst_set": "2026-11-08",
+  "sidst_set": "2026-11-09",
   "fogedret_navn": "Retten i Viborg"
  },
  {
@@ -5728,7 +5691,7 @@
   "fogedret_adresse": "Domhusstræde 1, 4300, Holbæk",
   "landsdel": "Sjælland",
   "paa_sitet": true,
-  "sidst_set": "2026-11-08",
+  "sidst_set": "2026-11-09",
   "fogedret_navn": "Retten i Holbæk"
  },
  {
@@ -5766,7 +5729,7 @@
   "fogedret_navn": "Retten i Hjørring",
   "landsdel": "Nordjylland",
   "paa_sitet": true,
-  "sidst_set": "2026-11-08"
+  "sidst_set": "2026-11-09"
  },
  {
   "id": 15212,
@@ -5802,7 +5765,7 @@
   "fogedret_adresse": "Domhusstræde 1, 4300, Holbæk",
   "landsdel": "Sjælland",
   "paa_sitet": true,
-  "sidst_set": "2026-11-08",
+  "sidst_set": "2026-11-09",
   "fogedret_navn": "Retten i Holbæk"
  },
  {
@@ -5840,7 +5803,7 @@
   "fogedret_navn": "Retten i Esbjerg",
   "landsdel": "Syddanmark",
   "paa_sitet": true,
-  "sidst_set": "2026-11-08"
+  "sidst_set": "2026-11-09"
  },
  {
   "id": 15280,
@@ -5876,7 +5839,7 @@
   "fogedret_adresse": "Tinghusgården, Albanigade 30, 2, 5000, Odense C",
   "landsdel": "Syddanmark",
   "paa_sitet": true,
-  "sidst_set": "2026-11-08",
+  "sidst_set": "2026-11-09",
   "fogedret_navn": "Retten i Odense"
  },
  {
@@ -5913,7 +5876,7 @@
   "fogedret_adresse": "Badehusvej 17, 9000, Aalborg",
   "landsdel": "Nordjylland",
   "paa_sitet": true,
-  "sidst_set": "2026-11-08",
+  "sidst_set": "2026-11-09",
   "fogedret_navn": "Retten i Aalborg"
  },
  {
@@ -5950,7 +5913,7 @@
   "fogedret_adresse": "Tinghusgården, Albanigade 30, 2, 5000, Odense C",
   "landsdel": "Syddanmark",
   "paa_sitet": true,
-  "sidst_set": "2026-11-08",
+  "sidst_set": "2026-11-09",
   "fogedret_navn": "Retten i Odense"
  },
  {
@@ -5987,7 +5950,7 @@
   "fogedret_adresse": "Tinghusgården, Albanigade 30, 2, 5000, Odense C",
   "landsdel": "Syddanmark",
   "paa_sitet": true,
-  "sidst_set": "2026-11-08",
+  "sidst_set": "2026-11-09",
   "fogedret_navn": "Retten i Odense"
  },
  {
@@ -6025,7 +5988,7 @@
   "fogedret_navn": "Retten i Hjørring",
   "landsdel": "Nordjylland",
   "paa_sitet": true,
-  "sidst_set": "2026-11-08"
+  "sidst_set": "2026-11-09"
  },
  {
   "id": 15308,
@@ -6062,7 +6025,7 @@
   "fogedret_navn": "Retten i Svendborg",
   "landsdel": "Syddanmark",
   "paa_sitet": true,
-  "sidst_set": "2026-11-08"
+  "sidst_set": "2026-11-09"
  },
  {
   "id": 15204,
@@ -6098,7 +6061,7 @@
   "fogedret_adresse": "Christiansvej 41, 5700, Svendborg",
   "landsdel": "Syddanmark",
   "paa_sitet": true,
-  "sidst_set": "2026-11-08",
+  "sidst_set": "2026-11-09",
   "fogedret_navn": "Retten i Svendborg"
  },
  {
@@ -6136,7 +6099,7 @@
   "fogedret_navn": "Retten i Svendborg",
   "landsdel": "Syddanmark",
   "paa_sitet": true,
-  "sidst_set": "2026-11-08"
+  "sidst_set": "2026-11-09"
  },
  {
   "id": 15129,
@@ -6172,7 +6135,7 @@
   "fogedret_adresse": "Stationsvej 10, 6400, Sønderborg",
   "landsdel": "Syddanmark",
   "paa_sitet": true,
-  "sidst_set": "2026-11-08",
+  "sidst_set": "2026-11-09",
   "fogedret_navn": "Retten i Sønderborg"
  },
  {
@@ -6210,7 +6173,7 @@
   "fogedret_navn": "Retten i Horsens",
   "landsdel": "Midtjylland",
   "paa_sitet": true,
-  "sidst_set": "2026-11-08"
+  "sidst_set": "2026-11-09"
  },
  {
   "id": 15384,
@@ -6247,7 +6210,7 @@
   "fogedret_navn": "Retten i Holbæk",
   "landsdel": "Sjælland",
   "paa_sitet": true,
-  "sidst_set": "2026-11-08"
+  "sidst_set": "2026-11-09"
  },
  {
   "id": 15378,
@@ -6284,7 +6247,7 @@
   "fogedret_navn": "Retten i Hjørring",
   "landsdel": "Nordjylland",
   "paa_sitet": true,
-  "sidst_set": "2026-11-08"
+  "sidst_set": "2026-11-09"
  },
  {
   "id": 15324,
@@ -6321,7 +6284,7 @@
   "fogedret_navn": "Retten i Holbæk",
   "landsdel": "Sjælland",
   "paa_sitet": true,
-  "sidst_set": "2026-11-08"
+  "sidst_set": "2026-11-09"
  },
  {
   "id": 15389,
@@ -6358,7 +6321,7 @@
   "fogedret_navn": "Retten i Hjørring",
   "landsdel": "Nordjylland",
   "paa_sitet": true,
-  "sidst_set": "2026-11-08"
+  "sidst_set": "2026-11-09"
  },
  {
   "id": 15379,
@@ -6395,7 +6358,7 @@
   "fogedret_navn": "Retten i Hjørring",
   "landsdel": "Nordjylland",
   "paa_sitet": true,
-  "sidst_set": "2026-11-08"
+  "sidst_set": "2026-11-09"
  },
  {
   "id": 15201,
@@ -6431,7 +6394,7 @@
   "fogedret_adresse": "Hestemøllestræde 6, 1, 1464, København K",
   "landsdel": "Hovedstaden",
   "paa_sitet": true,
-  "sidst_set": "2026-11-08",
+  "sidst_set": "2026-11-09",
   "fogedret_navn": "Københavns Byret, Tvangsauktioner"
  },
  {
@@ -6468,7 +6431,7 @@
   "fogedret_adresse": "Hestemøllestræde 6, 1, 1464, København K",
   "fogedret_navn": "Københavns Byret, Tvangsauktioner",
   "landsdel": "Hovedstaden",
-  "paa_sitet": true,
+  "paa_sitet": false,
   "sidst_set": "2026-11-08"
  },
  {
@@ -6506,7 +6469,7 @@
   "fogedret_navn": "Retten i Holbæk",
   "landsdel": "Sjælland",
   "paa_sitet": true,
-  "sidst_set": "2026-11-08"
+  "sidst_set": "2026-11-09"
  },
  {
   "id": 15325,
@@ -6543,7 +6506,7 @@
   "fogedret_navn": "Retten i Holbæk",
   "landsdel": "Sjælland",
   "paa_sitet": true,
-  "sidst_set": "2026-11-08"
+  "sidst_set": "2026-11-09"
  },
  {
   "id": 15368,
@@ -6580,7 +6543,81 @@
   "fogedret_navn": "Retten i Esbjerg",
   "landsdel": "Syddanmark",
   "paa_sitet": true,
-  "sidst_set": "2026-11-08"
+  "sidst_set": "2026-11-09"
+ },
+ {
+  "id": 15395,
+  "url": "https://www.tvangsauktioner.dk/tvangsauktion/15395/",
+  "adresse": "Rønbækvej 15A",
+  "postnr": "8382",
+  "by": "Hinnerup",
+  "kategori": "Erhverv",
+  "status": "active",
+  "auktion_nr": 1,
+  "auktionsdato": "2026-12-02T11:00",
+  "ejendomsvaerdi": 1050000,
+  "areal_bolig": 0,
+  "areal_erhverv": 4950,
+  "areal_grund": 13377,
+  "lat": 56.263356633635,
+  "lng": 10.098263443573,
+  "billede": "https://www.tvangsauktioner.dk/wp-content/uploads/2026/11/6af1a0e62225a-768x1025.jpeg",
+  "foerst_set": "2026-11-09",
+  "kommune": "Favrskov",
+  "matrikel": "10ar, Grundfør By, Grundfør",
+  "grundvaerdi": 110300,
+  "offentliggjort": "2026-11-09T13:45",
+  "as_nr": "AS 54-90/2026",
+  "retskreds": "Retten i Randers",
+  "sagsnr": "2169/mdi",
+  "stoerstebeloeb": 115302,
+  "sikkerhedsstillelse": 627200,
+  "vejareal": 833,
+  "statstidende_dato": "2026-11-10T00:00",
+  "rekvirent_navn": "Tina Bach Advokater",
+  "rekvirent_tlf": "31642400",
+  "fogedret_adresse": "Nørregade 1, 8900, Randers C",
+  "fogedret_navn": "Retten i Randers",
+  "landsdel": "Midtjylland",
+  "paa_sitet": true,
+  "sidst_set": "2026-11-09"
+ },
+ {
+  "id": 15396,
+  "url": "https://www.tvangsauktioner.dk/tvangsauktion/15396/",
+  "adresse": "Rønbækvej 17",
+  "postnr": "8382",
+  "by": "Hinnerup",
+  "kategori": "Landbrug",
+  "status": "active",
+  "auktion_nr": 1,
+  "auktionsdato": "2026-12-02T11:00",
+  "ejendomsvaerdi": 2400000,
+  "areal_bolig": 0,
+  "areal_erhverv": 2300,
+  "areal_grund": 28200,
+  "lat": 56.262253759303,
+  "lng": 10.098692294039,
+  "billede": "https://www.tvangsauktioner.dk/wp-content/uploads/2026/11/6af1a74dc0631.jpeg",
+  "foerst_set": "2026-11-09",
+  "kommune": "Favrskov",
+  "matrikel": "10al, Grundfør By, Grundfør",
+  "grundvaerdi": 216900,
+  "offentliggjort": "2026-11-09T13:45",
+  "as_nr": "AS 54-91/2026",
+  "retskreds": "Retten i Randers",
+  "sagsnr": "2169-1/mdi",
+  "stoerstebeloeb": 158705,
+  "sikkerhedsstillelse": 670600,
+  "vejareal": 0,
+  "statstidende_dato": "2026-11-10T00:00",
+  "rekvirent_navn": "Tina Bach Advokater",
+  "rekvirent_tlf": "31642400",
+  "fogedret_adresse": "Nørregade 1, 8900, Randers C",
+  "fogedret_navn": "Retten i Randers",
+  "landsdel": "Midtjylland",
+  "paa_sitet": true,
+  "sidst_set": "2026-11-09"
  },
  {
   "id": 15393,
@@ -6617,7 +6654,7 @@
   "fogedret_navn": "Retten i Helsingør",
   "landsdel": "Hovedstaden",
   "paa_sitet": true,
-  "sidst_set": "2026-11-08"
+  "sidst_set": "2026-11-09"
  },
  {
   "id": 15386,
@@ -6654,7 +6691,7 @@
   "fogedret_navn": "Retten i Herning",
   "landsdel": "Midtjylland",
   "paa_sitet": true,
-  "sidst_set": "2026-11-08"
+  "sidst_set": "2026-11-09"
  },
  {
   "id": 15321,
@@ -6691,7 +6728,7 @@
   "fogedret_navn": "Retten i Herning",
   "landsdel": "Midtjylland",
   "paa_sitet": true,
-  "sidst_set": "2026-11-08"
+  "sidst_set": "2026-11-09"
  },
  {
   "id": 15382,
@@ -6728,7 +6765,7 @@
   "fogedret_navn": "Retten i Herning",
   "landsdel": "Midtjylland",
   "paa_sitet": true,
-  "sidst_set": "2026-11-08"
+  "sidst_set": "2026-11-09"
  },
  {
   "id": 15261,
@@ -6801,7 +6838,7 @@
   "fogedret_adresse": "Dokken 1, 6700, Esbjerg",
   "landsdel": "Syddanmark",
   "paa_sitet": true,
-  "sidst_set": "2026-11-08",
+  "sidst_set": "2026-11-09",
   "fogedret_navn": "Retten i Esbjerg"
  },
  {
@@ -6838,7 +6875,7 @@
   "fogedret_adresse": "Dokken 1, 6700, Esbjerg",
   "landsdel": "Syddanmark",
   "paa_sitet": true,
-  "sidst_set": "2026-11-08",
+  "sidst_set": "2026-11-09",
   "fogedret_navn": "Retten i Esbjerg"
  },
  {
@@ -6876,7 +6913,7 @@
   "fogedret_navn": "Retten i Esbjerg",
   "landsdel": "Syddanmark",
   "paa_sitet": true,
-  "sidst_set": "2026-11-08"
+  "sidst_set": "2026-11-09"
  },
  {
   "id": 15214,
@@ -6912,7 +6949,7 @@
   "fogedret_adresse": "Badehusvej 17, 9000, Aalborg",
   "landsdel": "Nordjylland",
   "paa_sitet": true,
-  "sidst_set": "2026-11-08",
+  "sidst_set": "2026-11-09",
   "fogedret_navn": "Retten i Aalborg"
  },
  {
@@ -6950,7 +6987,7 @@
   "fogedret_navn": "Retten i Næstved",
   "landsdel": "Sjælland",
   "paa_sitet": true,
-  "sidst_set": "2026-11-08"
+  "sidst_set": "2026-11-09"
  },
  {
   "id": 15174,
@@ -6986,7 +7023,7 @@
   "fogedret_adresse": "Kasernevej 20, 1, 4700, Næstved",
   "landsdel": "Sjælland",
   "paa_sitet": true,
-  "sidst_set": "2026-11-08",
+  "sidst_set": "2026-11-09",
   "fogedret_navn": "Retten i Næstved"
  },
  {
@@ -7024,7 +7061,44 @@
   "fogedret_navn": "Retten i Svendborg",
   "landsdel": "Syddanmark",
   "paa_sitet": true,
-  "sidst_set": "2026-11-08"
+  "sidst_set": "2026-11-09"
+ },
+ {
+  "id": 15352,
+  "url": "https://www.tvangsauktioner.dk/tvangsauktion/15352/",
+  "adresse": "Østergade 54",
+  "postnr": "5900",
+  "by": "Rudkøbing, 5900 Rudkøbing",
+  "kategori": "Erhverv",
+  "status": "active",
+  "auktion_nr": 1,
+  "auktionsdato": "2026-12-09T10:30",
+  "ejendomsvaerdi": 910000,
+  "areal_bolig": 0,
+  "areal_erhverv": 14,
+  "areal_grund": 509,
+  "lat": 54.935232648243,
+  "lng": 10.715960175897,
+  "billede": "https://www.tvangsauktioner.dk/wp-content/uploads/2026/11/6adf0849b08b2-768x576.jpeg",
+  "foerst_set": "2026-11-09",
+  "kommune": "Langeland",
+  "matrikel": "112, Rudkøbing Bygrunde",
+  "grundvaerdi": 201600,
+  "offentliggjort": "2026-11-09T09:29",
+  "as_nr": "AS 7-128/2026",
+  "retskreds": "Retten i Svendborg",
+  "sagsnr": "65290/BH",
+  "stoerstebeloeb": 82790,
+  "sikkerhedsstillelse": 82790,
+  "vejareal": 0,
+  "statstidende_dato": "2026-11-10T00:00",
+  "rekvirent_navn": "BORCH Advokater",
+  "rekvirent_tlf": "62210101",
+  "fogedret_adresse": "Christiansvej 41, 5700, Svendborg",
+  "fogedret_navn": "Retten i Svendborg",
+  "landsdel": "Syddanmark",
+  "paa_sitet": true,
+  "sidst_set": "2026-11-09"
  },
  {
   "id": 15304,
@@ -7061,7 +7135,7 @@
   "fogedret_navn": "Retten i Lyngby",
   "landsdel": "Hovedstaden",
   "paa_sitet": true,
-  "sidst_set": "2026-11-08"
+  "sidst_set": "2026-11-09"
  },
  {
   "id": 15377,
@@ -7098,7 +7172,44 @@
   "fogedret_navn": "Retten i Sønderborg",
   "landsdel": "Syddanmark",
   "paa_sitet": true,
-  "sidst_set": "2026-11-08"
+  "sidst_set": "2026-11-09"
+ },
+ {
+  "id": 15397,
+  "url": "https://www.tvangsauktioner.dk/tvangsauktion/15397/",
+  "adresse": "Ejstrupvej 11",
+  "postnr": "2650",
+  "by": "Hvidovre",
+  "kategori": "Villa",
+  "status": "active",
+  "auktion_nr": 1,
+  "auktionsdato": "2026-12-10T13:45",
+  "ejendomsvaerdi": 6269000,
+  "areal_bolig": 217,
+  "areal_erhverv": 0,
+  "areal_grund": 776,
+  "lat": 55.652003632681,
+  "lng": 12.469158268862,
+  "billede": "https://www.tvangsauktioner.dk/wp-content/uploads/2026/11/6af1bfd2b64e6.jpeg",
+  "foerst_set": "2026-11-09",
+  "kommune": "Hvidovre",
+  "matrikel": "10bæ, Hvidovre By, Hvidovre",
+  "grundvaerdi": 3858000,
+  "offentliggjort": "2026-11-09T13:45",
+  "as_nr": "AS 154/2025",
+  "retskreds": "Retten i Glostrup",
+  "sagsnr": "1758/2026",
+  "stoerstebeloeb": 143732,
+  "sikkerhedsstillelse": 1871900,
+  "vejareal": 0,
+  "statstidende_dato": "2026-11-10T00:00",
+  "rekvirent_navn": "Tina Bach Advokater",
+  "rekvirent_tlf": "31642400",
+  "fogedret_adresse": "Stationsparken 27, 2600, Glostrup",
+  "fogedret_navn": "Retten i Glostrup",
+  "landsdel": "Hovedstaden",
+  "paa_sitet": true,
+  "sidst_set": "2026-11-09"
  },
  {
   "id": 15218,
@@ -7134,8 +7245,45 @@
   "fogedret_adresse": "Kolding Åpark 11, 6000, Kolding",
   "landsdel": "Syddanmark",
   "paa_sitet": true,
-  "sidst_set": "2026-11-08",
+  "sidst_set": "2026-11-09",
   "fogedret_navn": "Retten i Kolding"
+ },
+ {
+  "id": 15322,
+  "url": "https://www.tvangsauktioner.dk/tvangsauktion/15322/",
+  "adresse": "Mølleparken 25",
+  "postnr": "7100",
+  "by": "Vejle",
+  "kategori": "Villa",
+  "status": "active",
+  "auktion_nr": 2,
+  "auktionsdato": "2026-12-11T11:00",
+  "ejendomsvaerdi": 1971000,
+  "areal_bolig": 175,
+  "areal_erhverv": 0,
+  "areal_grund": 841,
+  "lat": 55.65659062051,
+  "lng": 9.4982402923977,
+  "billede": "https://www.tvangsauktioner.dk/wp-content/uploads/2026/11/6aca06b03021c-768x1024.jpeg",
+  "foerst_set": "2026-10-10",
+  "kommune": "Vejle",
+  "matrikel": "8ad, Højen By, Højen",
+  "grundvaerdi": 585000,
+  "offentliggjort": "2026-10-10T11:37",
+  "as_nr": "AS 7-159/2026",
+  "retskreds": "Retten i Kolding",
+  "sagsnr": "20687B-2-MHJ",
+  "stoerstebeloeb": 74289,
+  "sikkerhedsstillelse": 567100,
+  "vejareal": 0,
+  "statstidende_dato": "2026-10-12T00:00",
+  "rekvirent_navn": "Andersen Partners",
+  "rekvirent_tlf": "+45 76 22 22 22",
+  "fogedret_adresse": "Kolding Åpark 11, 6000, Kolding",
+  "fogedret_navn": "Retten i Kolding",
+  "landsdel": "Syddanmark",
+  "paa_sitet": true,
+  "sidst_set": "2026-11-09"
  },
  {
   "id": 14781,
@@ -7171,7 +7319,7 @@
   "fogedret_adresse": "Christiansvej 41, 5700, Svendborg",
   "landsdel": "Syddanmark",
   "paa_sitet": true,
-  "sidst_set": "2026-11-08",
+  "sidst_set": "2026-11-09",
   "fogedret_navn": "Retten i Svendborg"
  },
  {
@@ -7208,7 +7356,7 @@
   "fogedret_adresse": "Sct. Knuds Park 8, 9800, Hjørring",
   "landsdel": "Nordjylland",
   "paa_sitet": true,
-  "sidst_set": "2026-11-08",
+  "sidst_set": "2026-11-09",
   "fogedret_navn": "Retten i Hjørring"
  },
  {
